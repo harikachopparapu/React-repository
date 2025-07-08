@@ -24,7 +24,9 @@ function App() {
     { number: 28.2, department: "Gender Diversity%",  isPercent: true },
     { number: 8, department: "Attritation Rate", isPercent: true  },
     { number: 180, department: "Remote Employees " },
+    { number: 42, department: "yet to Join " } , 
     { number: 42, department: "yet to Join " }   
+ 
     
 
   ];
